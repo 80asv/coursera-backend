@@ -1,0 +1,20 @@
+<books>
+    <book>
+        <title>El Principito</title>
+        <isbn>9788420444638</isbn>
+        <author>Antoine de Saint-Exupéry</author>
+        <review>Una historia maravillosa sobre la amistad y la importancia de ver más allá de lo visible.</review>
+    </book>
+    <book>
+        <title>Cien años de soledad</title>
+        <isbn>9780307350428</isbn>
+        <author>Gabriel García Márquez</author>
+        <review>Una obra maestra de la literatura latinoamericana, llena de magia y realismo mágico.</review>
+    </book>
+    <book>
+        <title>Harry Potter y la piedra filosofal</title>
+        <isbn>9788478884455</isbn>
+        <author>J.K. Rowling</author>
+        <review>El inicio de una saga increíble que cautiva a lectores de todas las edades.</review>
+    </book>
+</books>
